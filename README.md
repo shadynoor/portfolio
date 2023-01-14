@@ -1,5 +1,5 @@
-## Shady Noor Portfolio ## 
+# Shady Noor Portfolio #
 
-# This is my portfolio using HTML, CSS, JS, jQuery, Bootstrap 5
+### This is my portfolio using HTML, CSS, JS, jQuery, Bootstrap 5
 
-# You Can Find My Projects and my contacts 
+### You Can Find My Projects and my contacts 
